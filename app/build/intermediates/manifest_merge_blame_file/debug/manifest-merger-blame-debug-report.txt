@@ -6,103 +6,104 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml
+8-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml
+9-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-11-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:6:5-80
-11-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:6:22-77
+11-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:6:5-80
+11-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:6:22-77
 12    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
-12-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:7:5-9:47
-12-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:8:9-57
+12-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:7:5-9:47
+12-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:8:9-57
 13
 14    <application
-14-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:15:5-55:19
+14-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:15:5-55:19
 15        android:allowBackup="false"
-15-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:16:9-36
+15-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:16:9-36
 16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 16-->[androidx.core:core:1.2.0] C:\Users\mhung\.gradle\caches\transforms-2\files-2.1\4f3d7d743df13c1af889a0942a35670d\core-1.2.0\AndroidManifest.xml:24:18-86
 17        android:debuggable="true"
 18        android:icon="@mipmap/ic_launcher"
-18-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:17:9-43
+18-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:17:9-43
 19        android:label="@string/app_name"
-19-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:18:9-41
+19-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:18:9-41
 20        android:largeHeap="true"
-20-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:19:9-33
+20-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:19:9-33
 21        android:networkSecurityConfig="@xml/network_security_config"
-21-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:20:9-69
+21-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:20:9-69
 22        android:supportsRtl="true"
-22-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:21:9-35
-23        android:theme="@style/Theme.Player.Cutout" >
-23-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:22:9-51
-24        <activity
-24-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:24:9-54:20
-25            android:name="com.brouken.player.PlayerActivity"
-25-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:25:13-43
-26            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|screenLayout|smallestScreenSize|uiMode"
-26-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:26:13-122
-27            android:launchMode="singleTop"
-27-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:27:13-43
-28            android:supportsPictureInPicture="true" >
-28-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:28:13-52
-29            <intent-filter>
-29-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:30:13-33:29
-30                <action android:name="android.intent.action.MAIN" />
-30-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:31:17-69
-30-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:31:25-66
-31
-32                <category android:name="android.intent.category.LAUNCHER" />
-32-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:32:17-77
-32-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:32:27-74
-33            </intent-filter>
-34            <intent-filter>
-34-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:34:13-43:29
-35                <action android:name="android.intent.action.VIEW" />
-35-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:35:17-69
-35-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:35:25-66
-36
-37                <category android:name="android.intent.category.DEFAULT" />
-37-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:37:17-76
-37-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:37:27-73
-38                <category android:name="android.intent.category.BROWSABLE" />
-38-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:38:17-78
-38-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:38:27-75
-39
-40                <data android:scheme="content" />
-40-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:40:17-50
-40-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:40:23-47
-41                <data android:scheme="file" />
-41-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:40:17-50
-41-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:40:23-47
-42                <data android:mimeType="video/*" />
-42-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:40:17-50
-42-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:42:23-49
-43            </intent-filter>
-44            <intent-filter>
-44-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:44:13-53:29
-45                <action android:name="android.intent.action.VIEW" />
-45-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:35:17-69
-45-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:35:25-66
-46
-47                <category android:name="android.intent.category.DEFAULT" />
-47-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:37:17-76
-47-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:37:27-73
-48                <category android:name="android.intent.category.BROWSABLE" />
-48-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:38:17-78
-48-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:38:27-75
-49
-50                <data android:scheme="http" />
-50-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:40:17-50
-50-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:40:23-47
-51                <data android:host="127.0.0.1" />
-51-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:40:17-50
-51-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:51:23-47
-52                <data android:mimeType="video/*" />
-52-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:40:17-50
-52-->D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:42:23-49
-53            </intent-filter>
-54        </activity>
-55    </application>
-56
-57</manifest>
+22-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:21:9-35
+23        android:testOnly="true"
+24        android:theme="@style/Theme.Player.Cutout" >
+24-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:22:9-51
+25        <activity
+25-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:24:9-54:20
+26            android:name="com.brouken.player.PlayerActivity"
+26-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:25:13-43
+27            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|screenLayout|smallestScreenSize|uiMode"
+27-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:26:13-122
+28            android:launchMode="singleTop"
+28-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:27:13-43
+29            android:supportsPictureInPicture="true" >
+29-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:28:13-52
+30            <intent-filter>
+30-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:30:13-33:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:31:17-69
+31-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:31:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:32:17-77
+33-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:32:27-74
+34            </intent-filter>
+35            <intent-filter>
+35-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:34:13-43:29
+36                <action android:name="android.intent.action.VIEW" />
+36-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:35:17-69
+36-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:35:25-66
+37
+38                <category android:name="android.intent.category.DEFAULT" />
+38-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:37:17-76
+38-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:37:27-73
+39                <category android:name="android.intent.category.BROWSABLE" />
+39-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:38:17-78
+39-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:38:27-75
+40
+41                <data android:scheme="content" />
+41-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:40:17-50
+41-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:40:23-47
+42                <data android:scheme="file" />
+42-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:40:17-50
+42-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:40:23-47
+43                <data android:mimeType="video/*" />
+43-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:40:17-50
+43-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:42:23-49
+44            </intent-filter>
+45            <intent-filter>
+45-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:44:13-53:29
+46                <action android:name="android.intent.action.VIEW" />
+46-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:35:17-69
+46-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:35:25-66
+47
+48                <category android:name="android.intent.category.DEFAULT" />
+48-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:37:17-76
+48-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:37:27-73
+49                <category android:name="android.intent.category.BROWSABLE" />
+49-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:38:17-78
+49-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:38:27-75
+50
+51                <data android:scheme="http" />
+51-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:40:17-50
+51-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:40:23-47
+52                <data android:host="127.0.0.1" />
+52-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:40:17-50
+52-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:51:23-47
+53                <data android:mimeType="video/*" />
+53-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:40:17-50
+53-->D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:42:23-49
+54            </intent-filter>
+55        </activity>
+56    </application>
+57
+58</manifest>

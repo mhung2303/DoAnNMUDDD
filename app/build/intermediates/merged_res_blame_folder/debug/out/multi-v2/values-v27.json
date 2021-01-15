@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Downloads\\Player-master\\Player-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v27\\values-v27.xml",
+            "outputFile": "D:\\Downloads\\Player-master\\Player-master\\DoAnNMUDDD\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v27\\values-v27.xml",
             "map": [
                 {
-                    "source": "D:\\Downloads\\Player-master\\Player-master\\app\\src\\main\\res\\values-v27\\themes.xml",
+                    "source": "D:\\Downloads\\Player-master\\Player-master\\DoAnNMUDDD\\app\\src\\main\\res\\values-v27\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

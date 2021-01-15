@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:2:1-57:12
-INJECTED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:2:1-57:12
-INJECTED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:2:1-57:12
-INJECTED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:2:1-57:12
+ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:2:1-57:12
 MERGED from [extension-av1-release.aar] C:\Users\mhung\.gradle\caches\transforms-2\files-2.1\ea6259bb5843a67d723bf6914c469305\jetified-extension-av1-release\AndroidManifest.xml:17:1-24:12
 MERGED from [extension-ffmpeg-release.aar] C:\Users\mhung\.gradle\caches\transforms-2\files-2.1\bf0227d2dc09301f818d863d27f835ae\jetified-extension-ffmpeg-release\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.exoplayer:exoplayer-ui:2.12.3] C:\Users\mhung\.gradle\caches\transforms-2\files-2.1\91f120d9c7873c02eee53c8fec6e782b\jetified-exoplayer-ui-2.12.3\AndroidManifest.xml:17:1-24:12
@@ -40,45 +40,45 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mhung\.gradle
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mhung\.gradle\caches\transforms-2\files-2.1\06bc4641de51b04d4df94808d6e05292\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mhung\.gradle\caches\transforms-2\files-2.1\1b64911e987df0fea019408e241659d7\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\mhung\.gradle\caches\transforms-2\files-2.1\a77c810a56173ccf6fb339f045a6aacd\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:2:1-57:12
-INJECTED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:2:1-57:12
-INJECTED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:2:1-57:12
 	package
-		ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:4:5-33
-		INJECTED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:4:5-33
+		INJECTED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml
-		ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:2:1-57:12
-		INJECTED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml
+		ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:2:1-57:12
+		INJECTED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml
-		ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:2:1-57:12
-		INJECTED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml
+		ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:2:1-57:12
+		INJECTED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:6:5-80
+ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:6:5-80
 	android:name
-		ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:6:22-77
+		ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:6:22-77
 uses-permission#android.permission.WRITE_SETTINGS
-ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:7:5-9:47
+ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:7:5-9:47
 	tools:ignore
-		ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:9:9-44
+		ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:9:9-44
 	android:name
-		ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:8:9-57
+		ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:8:9-57
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:11:5-13:31
+ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:11:5-13:31
 REJECTED from [com.google.android.exoplayer:exoplayer-core:2.12.3] C:\Users\mhung\.gradle\caches\transforms-2\files-2.1\2f25708ef9ddc66e3d11cc804dcb8149\jetified-exoplayer-core-2.12.3\AndroidManifest.xml:24:5-79
 REJECTED from [com.google.android.exoplayer:exoplayer-common:2.12.3] C:\Users\mhung\.gradle\caches\transforms-2\files-2.1\b0d33caee93dd6f3df8ffaea36bfabf3\jetified-exoplayer-common-2.12.3\AndroidManifest.xml:24:5-79
 	tools:node
-		ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:13:9-28
+		ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:13:9-28
 	android:name
-		ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:12:9-63
+		ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:12:9-63
 application
-ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:15:5-55:19
+ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:15:5-55:19
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\mhung\.gradle\caches\transforms-2\files-2.1\c63d4a666c0a1ba98c2e2f24b9638d9e\material-1.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\mhung\.gradle\caches\transforms-2\files-2.1\c63d4a666c0a1ba98c2e2f24b9638d9e\material-1.2.1\AndroidManifest.xml:22:5-20
 MERGED from [androidx.core:core:1.2.0] C:\Users\mhung\.gradle\caches\transforms-2\files-2.1\4f3d7d743df13c1af889a0942a35670d\core-1.2.0\AndroidManifest.xml:24:5-89
@@ -88,71 +88,71 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mh
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.2.0] C:\Users\mhung\.gradle\caches\transforms-2\files-2.1\4f3d7d743df13c1af889a0942a35670d\core-1.2.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:21:9-35
+		ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:21:9-35
 	android:label
-		ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:18:9-41
+		ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:18:9-41
 	tools:targetApi
-		ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:23:9-28
+		ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:23:9-28
 	android:largeHeap
-		ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:19:9-33
+		ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:19:9-33
 	android:icon
-		ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:17:9-43
+		ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:17:9-43
 	android:allowBackup
-		ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:16:9-36
+		ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:16:9-36
 	android:theme
-		ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:22:9-51
+		ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:22:9-51
 	android:networkSecurityConfig
-		ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:20:9-69
+		ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:20:9-69
 activity#com.brouken.player.PlayerActivity
-ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:24:9-54:20
+ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:24:9-54:20
 	android:launchMode
-		ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:27:13-43
+		ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:27:13-43
 	android:supportsPictureInPicture
-		ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:28:13-52
+		ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:28:13-52
 	android:configChanges
-		ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:26:13-122
+		ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:26:13-122
 	tools:targetApi
-		ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:29:13-32
+		ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:29:13-32
 	android:name
-		ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:25:13-43
+		ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:25:13-43
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:30:13-33:29
+ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:30:13-33:29
 action#android.intent.action.MAIN
-ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:31:17-69
+ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:31:17-69
 	android:name
-		ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:31:25-66
+		ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:31:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:32:17-77
+ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:32:17-77
 	android:name
-		ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:32:27-74
+		ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:32:27-74
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:video/*+data:scheme:content+data:scheme:file
-ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:34:13-43:29
+ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:34:13-43:29
 action#android.intent.action.VIEW
-ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:35:17-69
+ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:35:17-69
 	android:name
-		ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:35:25-66
+		ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:35:25-66
 category#android.intent.category.DEFAULT
-ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:37:17-76
+ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:37:17-76
 	android:name
-		ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:37:27-73
+		ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:37:27-73
 category#android.intent.category.BROWSABLE
-ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:38:17-78
+ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:38:17-78
 	android:name
-		ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:38:27-75
+		ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:38:27-75
 data
-ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:40:17-50
+ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:40:17-50
 	android:host
-		ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:51:23-47
+		ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:51:23-47
 	android:scheme
-		ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:40:23-47
+		ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:40:23-47
 	android:mimeType
-		ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:42:23-49
+		ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:42:23-49
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:127.0.0.1+data:mimeType:video/*+data:scheme:http
-ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml:44:13-53:29
+ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml:44:13-53:29
 uses-sdk
-INJECTED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml
-INJECTED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml
+INJECTED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml
 MERGED from [extension-av1-release.aar] C:\Users\mhung\.gradle\caches\transforms-2\files-2.1\ea6259bb5843a67d723bf6914c469305\jetified-extension-av1-release\AndroidManifest.xml:20:5-22:41
 MERGED from [extension-av1-release.aar] C:\Users\mhung\.gradle\caches\transforms-2\files-2.1\ea6259bb5843a67d723bf6914c469305\jetified-extension-av1-release\AndroidManifest.xml:20:5-22:41
 MERGED from [extension-ffmpeg-release.aar] C:\Users\mhung\.gradle\caches\transforms-2\files-2.1\bf0227d2dc09301f818d863d27f835ae\jetified-extension-ffmpeg-release\AndroidManifest.xml:20:5-22:41
@@ -225,13 +225,13 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mhung\.gradle\cache
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mhung\.gradle\caches\transforms-2\files-2.1\1b64911e987df0fea019408e241659d7\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\mhung\.gradle\caches\transforms-2\files-2.1\a77c810a56173ccf6fb339f045a6aacd\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\mhung\.gradle\caches\transforms-2\files-2.1\a77c810a56173ccf6fb339f045a6aacd\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
-INJECTED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml
-INJECTED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml
+INJECTED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml
-		ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml
+		ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml
-		ADDED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Downloads\Player-master\Player-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml
+		ADDED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Downloads\Player-master\Player-master\DoAnNMUDDD\app\src\main\AndroidManifest.xml

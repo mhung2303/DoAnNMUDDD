@@ -1,10 +1,10 @@
-#Sat Jan 16 03:34:23 ICT 2021
+#Sat Jan 16 03:50:02 ICT 2021
 path.2=classes2.dex
 path.1=classes.dex
 path.0=classes.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.2=D\:\\Downloads\\Player-master\\Player-master\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
-base.1=D\:\\Downloads\\Player-master\\Player-master\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
-base.0=D\:\\Downloads\\Player-master\\Player-master\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.2=D\:\\Downloads\\Player-master\\Player-master\\DoAnNMUDDD\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+base.1=D\:\\Downloads\\Player-master\\Player-master\\DoAnNMUDDD\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+base.0=D\:\\Downloads\\Player-master\\Player-master\\DoAnNMUDDD\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex

@@ -30,9 +30,9 @@ Phần mềm dùng để coi video có hỗ trợ phụ đề.
   + Target sdk: 30
   
 ## Thư viện và công nghệ
--Language: Java
--IDE: Android studio
--Hỗ trợ những âm thanh khác nhau: https://exoplayer.dev/supported-formats.html
+- Language: Java
+- IDE: Android studio
+- Hỗ trợ những âm thanh khác nhau: https://exoplayer.dev/supported-formats.html
 
 
 

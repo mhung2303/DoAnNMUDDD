@@ -12,15 +12,15 @@ Phần mềm dùng để coi video có hỗ trợ phụ đề.
   + Chức năng thêm subtitle và mở subtitle.
   + Chức năng setting dùng để chính tốc độ và audio
   
-Hình đầy đủ chức năng: 
-
-
 2. Yêu cầu thiết bị
 
 3. Thư viện và công nghệ
 
 4. Tác giả
 
+## Hình ảnh đầy đủ chức năng
+
+![support](https://user-images.githubusercontent.com/55967850/105566344-4328fa00-5d5e-11eb-9883-812862fc14c2.jpg)
 
 ## Yêu cầu thiết bị
 - Android: 
